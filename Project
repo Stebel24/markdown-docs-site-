@@ -9,6 +9,3 @@ Explore tutorials and guides below:
 - [Publishing via GitHub Pages](tutorials/publishing-github-pages.md)
 - [Updating Documentation](tutorials/updating-docs.md)
 
-theme: jekyll-theme-cayman
-title: Markdown Docs Site
-description: A Markdown-based documentation website project.
